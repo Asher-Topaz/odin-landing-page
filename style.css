@@ -11,3 +11,8 @@ body {
 ul {
     list-style-type:none ;
 }
+
+a {
+    color:white;
+    text-decoration: none;
+}
