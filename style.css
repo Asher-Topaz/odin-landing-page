@@ -6,6 +6,8 @@ body {
 
     background: #1f2937;
     color: white;
+    font-family: sans-serif;
+    
 }
 
 ul {
@@ -28,4 +30,11 @@ a {
 .header {
     display: flex;
     justify-content: space-between;
+}
+
+.links {
+    
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
 }
