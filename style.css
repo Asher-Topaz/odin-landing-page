@@ -30,6 +30,8 @@ a {
 .header {
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    margin-left: 200px;
 }
 
 .links {
@@ -54,4 +56,5 @@ a {
 
     font-size: 48px;
     font-weight:bolder;
+    
 }
