@@ -42,6 +42,7 @@ a {
     display: flex;
     justify-content: space-between;
     gap: 20px;
+    margin-right: 200px;
 }
 
 .main-content {
@@ -66,4 +67,10 @@ a {
 
 .secondary-text {
     margin-top: 20px;
+}
+
+.main-image {
+
+    margin-right: 200px;
+    margin-top:200px;
 }
