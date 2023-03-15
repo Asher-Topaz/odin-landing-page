@@ -24,3 +24,8 @@ a {
     background: #3882f6;
     color: white;
 }
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
