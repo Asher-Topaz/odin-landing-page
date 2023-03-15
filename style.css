@@ -25,6 +25,7 @@ a {
     border-radius: 8px;
     background: #3882f6;
     color: white;
+    font-size: 30px;
 }
 
 .header {
@@ -50,6 +51,8 @@ a {
 .description {
 
     width: 500px;
+    margin-left: 200px;
+    margin-top: 100px;
 }
 
 .large-text {
@@ -57,4 +60,8 @@ a {
     font-size: 48px;
     font-weight:bolder;
     
+}
+
+.secondary-text {
+    margin-top: 20px;
 }
