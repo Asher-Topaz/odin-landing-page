@@ -135,6 +135,7 @@ a {
     background: #e5e7eb;
     padding-top: 150px;
     color: #1f2937;
+    padding-bottom: 60px;
 }
 
 .testimonial {
@@ -153,4 +154,46 @@ a {
   font-size: 30px;
   margin-top: 20px;
   font-weight: bolder;
+  margin-bottom: 100px;
 }
+
+.blue-box {
+
+    background: #3882f6;
+    border-radius: 10px;
+    width: 800px;
+    margin-left: 290px;
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    margin-top: 100px;
+    gap: 100px;
+
+}
+
+.blue-box  .action-text {
+
+    color:#f9faf8
+
+
+}
+
+.second-button button {
+
+    border-radius: 8px;
+    border-style: solid;
+    border-color: #e5e7eb;
+    background: #3882f6;
+    color: white;
+    font-size: 16px;
+    padding: 8px 36px 8px 36px ;
+    font-weight: 600;
+    margin-top: 16px;
+}
+
+
+
+
+
+
