@@ -123,6 +123,10 @@ a {
 } 
 
 .box div {
-    color: rgb(61, 61, 61);
+    color: rgb(104, 104, 104);
+    font-size: 16px;
+    text-align: center;
 }
+
+
 
