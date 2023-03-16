@@ -106,3 +106,16 @@ a {
     border-radius: 10px;
 
 }
+
+.profile {
+     display: flex;
+     justify-content: center;
+     gap: 50px;
+     margin-top: 46px;
+    
+}
+
+.box {
+
+    text-align: center;
+}
