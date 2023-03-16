@@ -113,6 +113,8 @@ a {
      justify-content: center;
      gap: 50px;
      margin-top: 46px;
+     margin-bottom: 200px;
+     align-items: center;
     
 }
 
@@ -131,6 +133,8 @@ a {
 .third-container {
 
     background: #e5e7eb;
+    padding-top: 150px;
+    color: #1f2937;
 }
 
 .testimonial {
@@ -139,4 +143,14 @@ a {
     font-style: italic;
     color: #1f2937;
     width: 800px;
+    text-align: center;
+    margin-left: 260px;
+}
+
+.quote {
+
+  margin-left: 810px;
+  font-size: 30px;
+  margin-top: 20px;
+  font-weight: bolder;
 }
