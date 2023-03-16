@@ -99,7 +99,7 @@ a {
 
 .square {
 
-    border-style: solid;
+    border: 5px solid;
     border-color: #3882f6;
     height: 200px;
     width:200px;
@@ -121,4 +121,8 @@ a {
     text-align: center;
    
 } 
+
+.box div {
+    color: rgb(61, 61, 61);
+}
 
