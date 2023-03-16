@@ -128,5 +128,15 @@ a {
     text-align: center;
 }
 
+.third-container {
 
+    background: #e5e7eb;
+}
 
+.testimonial {
+
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    width: 800px;
+}
